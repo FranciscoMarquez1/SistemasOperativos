@@ -22,5 +22,7 @@ gcc
 + Es la forma en que el HW interactua con el CPU
 
 ## Que aprendi:
+Aprendí a interactuar con el sistema operativo y hacer llamadas al sistema, asi como un par de cosas basicas acerca de c y como funciona a nivel memoria el apagado de la computadora.
 
 ## Url del commit: 
+https://github.com/FranciscoMarquez1/SistemasOperativos/commit/4ce5f02b113c8185e0addfe81227bb3b341c2bd1
