@@ -5,12 +5,14 @@ Si hay dos o mas con misma prioridad, el primero de la lista.
 
 ## Herramientas
 git
+
 make
+
 gcc
 
 ## Conceptos
 1) Proceso
-2) PLanificacion de proceso:
+2) Planificacion de proceso:
 + Es el mecanismo que el SO tiene para asignarle el cpu a un proceso.
 3) Estados de un proceso
 4) Cambio de contexto:
