@@ -7,7 +7,7 @@ Investigar y practicar diferentes IPC.
 # Herramientas
 gcc
 
-#Conceptos:
+# Conceptos:
 
 ## Procesos cooperativos:
   + dos o más procesos que se comunican con un IPC
