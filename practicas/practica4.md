@@ -24,7 +24,10 @@ gcc
 Aprendí que existe algo llamado scheduler que esta corriendo todo el tiempo en el sistema operativo, este es el encargado de determinar que proceso se debe de estar ejecutando. En este caso comenzamos la practica, realizando 2 funciones basicas, encargadas de definir la prioridad del proceso y otro encargado de imprimirlo y mostrar que el cambio de la prioridad si se esta realizando. 
 
 ## Url del commit:
+Parte 1:
 https://github.com/FranciscoMarquez1/SistemasOperativos/commit/1a327cbed21204cd71cf1fc3965f312860f9cab7
+Parte 2:
+https://github.com/FranciscoMarquez1/SistemasOperativos/commit/ca69f8cb7d5e18eaefbbbf460b4d61d5510033c3
 
 ## Como se relaciona con los conceptos anteriores:
 Llamados a sis
