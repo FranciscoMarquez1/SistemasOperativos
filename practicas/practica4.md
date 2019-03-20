@@ -21,8 +21,10 @@ gcc
 + Restaurar el PC y la direccion del nuevo proceso.
 
 ## Que aprendí:
+Aprendí que existe algo llamado scheduler que esta corriendo todo el tiempo en el sistema operativo, este es el encargado de determinar que proceso se debe de estar ejecutando. En este caso comenzamos la practica, realizando 2 funciones basicas, encargadas de definir la prioridad del proceso y otro encargado de imprimirlo y mostrar que el cambio de la prioridad si se esta realizando. 
 
 ## Url del commit:
+https://github.com/FranciscoMarquez1/SistemasOperativos/commit/1a327cbed21204cd71cf1fc3965f312860f9cab7
 
 ## Como se relaciona con los conceptos anteriores:
-LLamados a sistema
+Llamados a sis
