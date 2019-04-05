@@ -101,3 +101,12 @@ int sys_reboot(void){
 	return 0;
 }
 
+int
+sys_date(void)
+{
+	struct rtcdate* t1;
+	argptr(0, (void*)(&t1), sizeof(*t1));
+	cmostime(t1);
+	return 0;
+}
+
