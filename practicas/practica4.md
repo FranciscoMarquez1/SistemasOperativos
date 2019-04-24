@@ -30,4 +30,4 @@ Parte 2:
 https://github.com/FranciscoMarquez1/SistemasOperativos/commit/ca69f8cb7d5e18eaefbbbf460b4d61d5510033c3
 
 ## Como se relaciona con los conceptos anteriores:
-Llamados a sis
+Esta relacionado principalmente con las llamadas a sistema, las cuales no seran de utilidad en caso de que el scheduler no funcione de manera adecuada.
