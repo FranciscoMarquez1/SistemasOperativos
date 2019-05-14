@@ -30,5 +30,7 @@ git
   + Productor/Consumidor: Ocurre cuando los datos se pueden sobreescribir
 
 # Url del commit:
+https://github.com/FranciscoMarquez1/SistemasOperativos/commit/74ee7a7f662d27c53ae8aa3408b8aaf220395705
 
-# Que aprendí
+# Que aprendí:
+Logre aprender acerca del uso basico de threads en C, ademas de los problemas que pueden llegar a dar en cuanto a sincronización, para estoy existen mecanisos de sincronización, que aprendimo a usar de una manera algo básica.
